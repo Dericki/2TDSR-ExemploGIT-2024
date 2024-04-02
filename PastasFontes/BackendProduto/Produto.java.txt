@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 phablo comprou pão na casa do joão
+=======
+ue
+>>>>>>> correcaoBugProduto
